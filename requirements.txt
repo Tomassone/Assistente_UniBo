@@ -1,0 +1,11 @@
+llama-index
+langchain
+langchain_community
+ollama
+pypdf
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+streamlit
+plotly
+pandas
+faiss-cpu
